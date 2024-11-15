@@ -13,7 +13,6 @@
   * Embed snippets of `code`
   * Create [links](/)
   * ...
-
 <small>Sample content borrowed with thanks from [elm-markdown](http://elm-lang.org/examples/markdown)❤️</small>
 
 Custom handling of code blocks (or any rule!) is possible with the [`renderRule` option](https://github.com/quantizor/markdown-to-jsx#optionsrenderrule). For example, LaTeX support via [`@matejmazur/react-katex`](https://www.npmjs.com/package/@matejmazur/react-katex):
@@ -31,3 +30,5 @@ function App() {
 You can even include custom React components if you declare them in the [`overrides` option](https://github.com/quantizor/markdown-to-jsx/blob/main/README.md#optionsoverrides---rendering-arbitrary-react-components).
 
 This is the beginning™️.
+
+<img src="https://github.com/dev-alto/records-assets/blob/master/sfhacks/sfhacks_group-photo.png" />
