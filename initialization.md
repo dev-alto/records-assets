@@ -31,4 +31,4 @@ You can even include custom React components if you declare them in the [`overri
 
 This is the beginning™️.
 
-<img src="https://github.com/dev-alto/records-assets/blob/master/sfhacks/sfhacks_group-photo.png" />
+![](https://github.com/dev-alto/records-assets/blob/master/sfhacks/sfhacks_group-photo.png)
